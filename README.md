@@ -14,6 +14,27 @@ Streamlined Django boilerplate that takes care of the heavy lifting, so you can 
 ## Pay Once - Use Forever
 ShipWithDjango offers lifetime access for a one-time payment. More information at https://shipwithdjango.com/pricing/
 
+## Features
+- Easy configuration
+- User account management
+- Two-factor authentication
+- Reliable email delivery with SendGrid
+- Credits system
+- Subscriptions
+- AI-powered creativity
+- Tailwind CSS
+- Async and Websockets
+- Built-in API
+- Background tasks
+- Containerized development with Docker
+- Integrated logging with Sentry/Better Stack
+- Dynamic PDF and Excel document creation
+- Custom light-weight dynamic tables
+- Utility functions
+- Intuitive admin panel
+- Translation management
+- User impersonation
+
 ![Testimonial Nick](https://github.com/user-attachments/assets/70c6cc9c-64b0-4cd7-b370-0c7b66720fae)
 
 ## Why ShipWithDjango?
