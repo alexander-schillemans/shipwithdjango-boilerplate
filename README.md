@@ -3,16 +3,7 @@ https://shipwithdjango.com/
 
 Streamlined Django boilerplate that takes care of the heavy lifting, so you can ship your project faster and more efficiently.
 
-![Hit the ground running](https://github.com/user-attachments/assets/cd1ef5d7-c7a1-4324-8731-0027e4f3ae46)
-
-## Useful links
-- Documentation: https://docs.shipwithdjango.com/
-- Obtain a license: https://shipwithdjango.com/pricing/
-- Discover all features: [https://shipwithdjango.com/features/](https://shipwithdjango.com/features/)
-- License agreement: https://shipwithdjango.com/license/
-
-## Pay Once - Use Forever
-ShipWithDjango offers lifetime access for a one-time payment. More information at https://shipwithdjango.com/pricing/
+![Cut the code, Ship the product](https://github.com/user-attachments/assets/c0ae874f-bbff-4065-b3ac-2eb547b42ec9)
 
 ## Features
 - Easy configuration
@@ -34,6 +25,15 @@ ShipWithDjango offers lifetime access for a one-time payment. More information a
 - Intuitive admin panel
 - Translation management
 - User impersonation
+
+## Useful links
+- Documentation: https://docs.shipwithdjango.com/
+- Obtain a license: https://shipwithdjango.com/pricing/
+- Discover all features: [https://shipwithdjango.com/features/](https://shipwithdjango.com/features/)
+- License agreement: https://shipwithdjango.com/license/
+
+## Pay Once - Use Forever
+ShipWithDjango offers lifetime access for a one-time payment. More information at https://shipwithdjango.com/pricing/
 
 ![Testimonial Nick](https://github.com/user-attachments/assets/70c6cc9c-64b0-4cd7-b370-0c7b66720fae)
 
